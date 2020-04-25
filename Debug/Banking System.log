@@ -1,0 +1,6 @@
+﻿  pw2bankpriyankarohini (1).cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Generating Code...
+  pw2bankpriyankarohini (1).obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  pw2bankpriyankarohini (1).obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Banking System.vcxproj -> C:\Users\Dell\Documents\ROHINI\pw2bankpriyankarohini (1)\Debug\Banking System.exe
